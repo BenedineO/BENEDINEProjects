@@ -1,0 +1,101 @@
+StudentID,Name,Country,Gender,Age,Math_Score,Reading_Score,Writing_Score,School,Class
+1,Ifeanyi Mugisha,Zimbabwe,Female,18,99,77,12,Nelson Mandela School,JSS1
+2,Yemi Okeke,Tanzania,Male,16,60,29,98,Ubuntu Academy,JSS2
+3,Fatou Mugisha,Zimbabwe,Male,15,49,46,84,Ubuntu Academy,SS3
+4,Chinedu Okafor,Ethiopia,Female,17,34,57,45,Ubuntu Academy,SS2
+5,Yemi Moyo,Senegal,Male,16,22,16,38,Ubuntu Academy,SS3
+6,Thabo Banda,Ethiopia,Male,16,73,60,9,Nelson Mandela School,JSS2
+7,Fatou Toure,Ethiopia,Male,16,53,83,80,Nelson Mandela School,JSS1
+8,Chinedu Maphosa,Zambia,Female,18,21,52,88,Freedom College,JSS2
+9,Amina Abebe,Senegal,Male,16,3,62,16,Ubuntu Academy,SS2
+10,Jelani Moyo,Zambia,Male,15,82,64,92,Ubuntu Academy,SS1
+11,Abdi Chirwa,Nigeria,Female,18,77,36,12,Freedom College,SS3
+12,Amina Ncube,Ghana,Female,18,11,64,77,Ubuntu Academy,JSS1
+13,Ifeanyi Ncube,Nigeria,Female,17,99,29,10,Eagle High,JSS1
+14,Amina Mugisha,Uganda,Male,18,12,66,39,Freedom College,JSS2
+15,Abdi Adebayo,Kenya,Male,18,35,20,50,Eagle High,SS3
+16,Amina Kamau,South Africa,Male,17,58,78,33,Nelson Mandela School,SS1
+17,Kwame Njenga,Kenya,Male,15,73,25,45,Ubuntu Academy,SS3
+18,Kofi Mugisha,Ethiopia,Female,18,48,61,60,Freedom College,SS2
+19,Tinashe Okeke,South Africa,Female,18,47,83,28,Eagle High,JSS1
+20,Nia Njenga,Ethiopia,Male,17,99,23,57,Ubuntu Academy,JSS1
+21,Tinashe Maphosa,Ghana,Female,15,70,19,43,Ubuntu Academy,JSS3
+22,Jelani Njenga,Kenya,Female,14,75,83,80,Ubuntu Academy,JSS3
+23,Zuri Sow,Ethiopia,Male,18,47,39,27,Ubuntu Academy,SS3
+24,Fatou Mensah,Nigeria,Female,17,87,41,5,Nelson Mandela School,JSS1
+25,Mirembe Toure,South Africa,Female,15,46,100,2,Nelson Mandela School,JSS3
+26,Thabo Diallo,Kenya,Male,17,10,85,68,Freedom College,JSS3
+27,Sefu Okeke,Uganda,Female,18,87,51,88,Ubuntu Academy,JSS1
+28,Jelani Toure,Senegal,Male,14,57,85,40,Eagle High,JSS2
+29,Kwame Diallo,Uganda,Female,15,71,19,98,Ubuntu Academy,JSS2
+30,Chinedu Onyango,Senegal,Female,18,30,87,52,Nelson Mandela School,SS3
+31,Ada Onyango,Nigeria,Female,14,87,51,39,Freedom College,JSS3
+32,Lerato Mugisha,Tanzania,Female,15,59,12,32,Freedom College,JSS1
+33,Kwame Sow,Zimbabwe,Male,18,76,59,94,Freedom College,JSS3
+34,Sefu Adebayo,Zambia,Female,18,30,34,63,Freedom College,SS2
+35,Lerato Chirwa,Nigeria,Female,15,58,88,2,Ubuntu Academy,SS1
+36,Zuri Chirwa,Uganda,Male,16,73,40,59,Nelson Mandela School,SS2
+37,Zuri Toure,Zambia,Male,18,34,99,47,Freedom College,JSS3
+38,Jelani Mugisha,Zimbabwe,Male,14,10,52,97,Ubuntu Academy,JSS1
+39,Amara Maphosa,Uganda,Female,18,100,66,91,Nelson Mandela School,SS2
+40,Makena Onyango,Nigeria,Female,15,80,67,57,Freedom College,SS3
+41,Amina Onyango,Ethiopia,Male,18,24,34,91,Nelson Mandela School,JSS1
+42,Tinashe Chirwa,South Africa,Female,14,44,59,46,Freedom College,SS1
+43,Tinashe Ncube,Uganda,Male,15,50,7,42,Ubuntu Academy,JSS3
+44,Jelani Kamau,Nigeria,Male,17,96,61,93,Eagle High,SS3
+45,Amara Toure,Zimbabwe,Female,16,44,16,98,Eagle High,SS1
+46,Amina Onyango,Tanzania,Female,18,98,52,73,Freedom College,SS2
+47,Fatou Abebe,Tanzania,Female,16,87,100,34,Freedom College,SS1
+48,Ada Mwangi,Tanzania,Female,15,17,54,10,Eagle High,JSS2
+49,Yemi Okeke,Uganda,Male,16,92,81,14,Freedom College,SS1
+50,Ada Banda,Uganda,Male,15,92,36,46,Ubuntu Academy,SS2
+51,Amara Kalema,Zambia,Female,14,66,45,84,Freedom College,SS2
+52,Sefu Kalema,Ghana,Male,18,91,5,42,Freedom College,JSS3
+53,Tinashe Diallo,Ethiopia,Female,15,90,46,25,Freedom College,JSS3
+54,Mirembe Moyo,Ghana,Male,16,18,60,4,Freedom College,JSS1
+55,Kofi Okafor,Ghana,Male,14,6,24,86,Ubuntu Academy,SS3
+56,Lerato Okeke,Senegal,Male,14,69,14,79,Ubuntu Academy,JSS2
+57,Amina Mensah,Ethiopia,Male,14,39,25,53,Ubuntu Academy,SS3
+58,Nia Moyo,South Africa,Male,18,85,23,97,Ubuntu Academy,JSS2
+59,Abdi Diallo,Zimbabwe,Female,18,26,67,46,Ubuntu Academy,JSS1
+60,Lerato Banda,Nigeria,Male,16,4,87,74,Ubuntu Academy,JSS1
+61,Makena Kamau,Zimbabwe,Male,16,96,66,48,Freedom College,SS3
+62,Zuri Okeke,Nigeria,Female,18,96,66,20,Ubuntu Academy,SS3
+63,Kofi Abebe,Kenya,Male,17,64,21,40,Ubuntu Academy,JSS3
+64,Kofi Ncube,Nigeria,Male,17,57,47,34,Ubuntu Academy,JSS2
+65,Chinedu Abebe,Tanzania,Male,14,62,15,42,Ubuntu Academy,JSS2
+66,Abdi Mwangi,Nigeria,Male,14,51,52,41,Eagle High,JSS2
+67,Tinashe Njenga,Zambia,Male,17,94,53,72,Ubuntu Academy,SS3
+68,Makena Maphosa,Zambia,Male,15,88,21,78,Nelson Mandela School,SS2
+69,Lerato Ncube,Kenya,Female,14,79,37,82,Ubuntu Academy,JSS3
+70,Sefu Abebe,Ghana,Female,15,21,75,59,Nelson Mandela School,SS1
+71,Thabo Mwangi,Ethiopia,Female,14,84,73,18,Ubuntu Academy,SS1
+72,Kwame Mensah,Uganda,Female,17,93,65,35,Ubuntu Academy,SS1
+73,Zanele Kamau,Zambia,Female,16,17,80,19,Eagle High,JSS2
+74,Amina Njenga,Zambia,Female,16,43,51,68,Freedom College,JSS3
+75,Ada Diallo,Zimbabwe,Male,14,46,9,34,Freedom College,JSS2
+76,Sefu Moyo,Tanzania,Male,17,50,39,36,Eagle High,SS1
+77,Jelani Mwangi,Kenya,Male,18,84,31,66,Freedom College,JSS3
+78,Kwame Adebayo,Nigeria,Male,16,18,7,66,Eagle High,SS3
+79,Kwame Obasi,Zambia,Male,17,23,0,1,Ubuntu Academy,SS1
+80,Makena Chirwa,Zimbabwe,Female,15,63,84,32,Freedom College,JSS2
+81,Amina Diallo,Ethiopia,Male,18,90,9,54,Freedom College,JSS2
+82,Sefu Njenga,Zimbabwe,Female,15,85,39,63,Freedom College,SS3
+83,Kofi Ncube,Senegal,Male,14,56,60,33,Nelson Mandela School,JSS1
+84,Lerato Mwangi,Ethiopia,Female,15,51,56,13,Freedom College,JSS2
+85,Yemi Moyo,Kenya,Female,18,26,100,88,Eagle High,JSS3
+86,Zuri Onyango,Kenya,Female,17,31,42,14,Freedom College,SS3
+87,Zuri Okafor,Nigeria,Male,14,65,18,62,Eagle High,SS3
+88,Kofi Banda,South Africa,Female,16,99,35,9,Ubuntu Academy,JSS1
+89,Mirembe Maphosa,South Africa,Female,17,11,42,47,Nelson Mandela School,SS3
+90,Mirembe Mensah,Zimbabwe,Female,15,35,96,24,Freedom College,SS3
+91,Zuri Adebayo,Zambia,Male,16,72,98,7,Ubuntu Academy,SS3
+92,Zuri Moyo,Senegal,Male,17,30,21,72,Ubuntu Academy,SS3
+93,Lerato Chirwa,Kenya,Male,18,20,24,50,Nelson Mandela School,SS1
+94,Lerato Mensah,Tanzania,Female,17,22,79,27,Freedom College,SS1
+95,Zuri Kamau,South Africa,Female,16,25,71,86,Eagle High,SS3
+96,Thabo Mensah,Tanzania,Male,17,31,86,75,Freedom College,SS1
+97,Jelani Obasi,Nigeria,Female,15,75,3,62,Freedom College,JSS3
+98,Abdi Okafor,Nigeria,Male,16,57,68,54,Freedom College,JSS1
+99,Zanele Banda,Zambia,Female,17,74,20,44,Freedom College,JSS2
+100,Thabo Kalema,Kenya,Male,18,14,33,72,Ubuntu Academy,JSS2

@@ -1,0 +1,101 @@
+StudentID,Name,Country,Gender,Age,Mathematics_Score,Reading_Score,Writing_Score,Class,Total_Score,Percentage_Score,Status
+1,Ifeanyi Mugisha,Zimbabwe,Female,18,99,77,12,JSS1,188,62.67,PASSED
+2,Yemi Okeke,Tanzania,Male,16,60,29,98,JSS2,187,62.33,PASSED
+3,Fatou Mugisha,Zimbabwe,Male,15,49,46,84,SS3,179,59.67,PASSED
+4,Chinedu Okafor,Ethiopia,Female,17,34,57,45,SS2,136,45.33,FAILED
+5,Yemi Moyo,Senegal,Male,16,22,16,38,SS3,76,25.33,FAILED
+6,Thabo Banda,Ethiopia,Male,16,73,60,9,JSS2,142,47.33,FAILED
+7,Fatou Toure,Ethiopia,Male,16,53,83,80,JSS1,216,72.0,PASSED
+8,Chinedu Maphosa,Zambia,Female,18,21,52,88,JSS2,161,53.67,PASSED
+9,Amina Abebe,Senegal,Male,16,3,62,16,SS2,81,27.0,FAILED
+10,Jelani Moyo,Zambia,Male,15,82,64,92,SS1,238,79.33,PASSED
+11,Abdi Chirwa,Nigeria,Female,18,77,36,12,SS3,125,41.67,FAILED
+12,Amina Ncube,Ghana,Female,18,11,64,77,JSS1,152,50.67,PASSED
+13,Ifeanyi Ncube,Nigeria,Female,17,99,29,10,JSS1,138,46.0,FAILED
+14,Amina Mugisha,Uganda,Male,18,12,66,39,JSS2,117,39.0,FAILED
+15,Abdi Adebayo,Kenya,Male,18,35,20,50,SS3,105,35.0,FAILED
+16,Amina Kamau,South Africa,Male,17,58,78,33,SS1,169,56.33,PASSED
+17,Kwame Njenga,Kenya,Male,15,73,25,45,SS3,143,47.67,FAILED
+18,Kofi Mugisha,Ethiopia,Female,18,48,61,60,SS2,169,56.33,PASSED
+19,Tinashe Okeke,South Africa,Female,18,47,83,28,JSS1,158,52.67,PASSED
+20,Nia Njenga,Ethiopia,Male,17,99,23,57,JSS1,179,59.67,PASSED
+21,Tinashe Maphosa,Ghana,Female,15,70,19,43,JSS3,132,44.0,FAILED
+22,Jelani Njenga,Kenya,Female,14,75,83,80,JSS3,238,79.33,PASSED
+23,Zuri Sow,Ethiopia,Male,18,47,39,27,SS3,113,37.67,FAILED
+24,Fatou Mensah,Nigeria,Female,17,87,41,5,JSS1,133,44.33,FAILED
+25,Mirembe Toure,South Africa,Female,15,46,100,2,JSS3,148,49.33,FAILED
+26,Thabo Diallo,Kenya,Male,17,10,85,68,JSS3,163,54.33,PASSED
+27,Sefu Okeke,Uganda,Female,18,87,51,88,JSS1,226,75.33,PASSED
+28,Jelani Toure,Senegal,Male,14,57,85,40,JSS2,182,60.67,PASSED
+29,Kwame Diallo,Uganda,Female,15,71,19,98,JSS2,188,62.67,PASSED
+30,Chinedu Onyango,Senegal,Female,18,30,87,52,SS3,169,56.33,PASSED
+31,Ada Onyango,Nigeria,Female,14,87,51,39,JSS3,177,59.0,PASSED
+32,Lerato Mugisha,Tanzania,Female,15,59,12,32,JSS1,103,34.33,FAILED
+33,Kwame Sow,Zimbabwe,Male,18,76,59,94,JSS3,229,76.33,PASSED
+34,Sefu Adebayo,Zambia,Female,18,30,34,63,SS2,127,42.33,FAILED
+35,Lerato Chirwa,Nigeria,Female,15,58,88,2,SS1,148,49.33,FAILED
+36,Zuri Chirwa,Uganda,Male,16,73,40,59,SS2,172,57.33,PASSED
+37,Zuri Toure,Zambia,Male,18,34,99,47,JSS3,180,60.0,PASSED
+38,Jelani Mugisha,Zimbabwe,Male,14,10,52,97,JSS1,159,53.0,PASSED
+39,Amara Maphosa,Uganda,Female,18,100,66,91,SS2,257,85.67,PASSED
+40,Makena Onyango,Nigeria,Female,15,80,67,57,SS3,204,68.0,PASSED
+41,Amina Onyango,Ethiopia,Male,18,24,34,91,JSS1,149,49.67,FAILED
+42,Tinashe Chirwa,South Africa,Female,14,44,59,46,SS1,149,49.67,FAILED
+43,Tinashe Ncube,Uganda,Male,15,50,7,42,JSS3,99,33.0,FAILED
+44,Jelani Kamau,Nigeria,Male,17,96,61,93,SS3,250,83.33,PASSED
+45,Amara Toure,Zimbabwe,Female,16,44,16,98,SS1,158,52.67,PASSED
+46,Amina Onyango,Tanzania,Female,18,98,52,73,SS2,223,74.33,PASSED
+47,Fatou Abebe,Tanzania,Female,16,87,100,34,SS1,221,73.67,PASSED
+48,Ada Mwangi,Tanzania,Female,15,17,54,10,JSS2,81,27.0,FAILED
+49,Yemi Okeke,Uganda,Male,16,92,81,14,SS1,187,62.33,PASSED
+50,Ada Banda,Uganda,Male,15,92,36,46,SS2,174,58.0,PASSED
+51,Amara Kalema,Zambia,Female,14,66,45,84,SS2,195,65.0,PASSED
+52,Sefu Kalema,Ghana,Male,18,91,5,42,JSS3,138,46.0,FAILED
+53,Tinashe Diallo,Ethiopia,Female,15,90,46,25,JSS3,161,53.67,PASSED
+54,Mirembe Moyo,Ghana,Male,16,18,60,4,JSS1,82,27.33,FAILED
+55,Kofi Okafor,Ghana,Male,14,6,24,86,SS3,116,38.67,FAILED
+56,Lerato Okeke,Senegal,Male,14,69,14,79,JSS2,162,54.0,PASSED
+57,Amina Mensah,Ethiopia,Male,14,39,25,53,SS3,117,39.0,FAILED
+58,Nia Moyo,South Africa,Male,18,85,23,97,JSS2,205,68.33,PASSED
+59,Abdi Diallo,Zimbabwe,Female,18,26,67,46,JSS1,139,46.33,FAILED
+60,Lerato Banda,Nigeria,Male,16,4,87,74,JSS1,165,55.0,PASSED
+61,Makena Kamau,Zimbabwe,Male,16,96,66,48,SS3,210,70.0,PASSED
+62,Zuri Okeke,Nigeria,Female,18,96,66,20,SS3,182,60.67,PASSED
+63,Kofi Abebe,Kenya,Male,17,64,21,40,JSS3,125,41.67,FAILED
+64,Kofi Ncube,Nigeria,Male,17,57,47,34,JSS2,138,46.0,FAILED
+65,Chinedu Abebe,Tanzania,Male,14,62,15,42,JSS2,119,39.67,FAILED
+66,Abdi Mwangi,Nigeria,Male,14,51,52,41,JSS2,144,48.0,FAILED
+67,Tinashe Njenga,Zambia,Male,17,94,53,72,SS3,219,73.0,PASSED
+68,Makena Maphosa,Zambia,Male,15,88,21,78,SS2,187,62.33,PASSED
+69,Lerato Ncube,Kenya,Female,14,79,37,82,JSS3,198,66.0,PASSED
+70,Sefu Abebe,Ghana,Female,15,21,75,59,SS1,155,51.67,PASSED
+71,Thabo Mwangi,Ethiopia,Female,14,84,73,18,SS1,175,58.33,PASSED
+72,Kwame Mensah,Uganda,Female,17,93,65,35,SS1,193,64.33,PASSED
+73,Zanele Kamau,Zambia,Female,16,17,80,19,JSS2,116,38.67,FAILED
+74,Amina Njenga,Zambia,Female,16,43,51,68,JSS3,162,54.0,PASSED
+75,Ada Diallo,Zimbabwe,Male,14,46,9,34,JSS2,89,29.67,FAILED
+76,Sefu Moyo,Tanzania,Male,17,50,39,36,SS1,125,41.67,FAILED
+77,Jelani Mwangi,Kenya,Male,18,84,31,66,JSS3,181,60.33,PASSED
+78,Kwame Adebayo,Nigeria,Male,16,18,7,66,SS3,91,30.33,FAILED
+79,Kwame Obasi,Zambia,Male,17,23,0,1,SS1,24,8.0,FAILED
+80,Makena Chirwa,Zimbabwe,Female,15,63,84,32,JSS2,179,59.67,PASSED
+81,Amina Diallo,Ethiopia,Male,18,90,9,54,JSS2,153,51.0,PASSED
+82,Sefu Njenga,Zimbabwe,Female,15,85,39,63,SS3,187,62.33,PASSED
+83,Kofi Ncube,Senegal,Male,14,56,60,33,JSS1,149,49.67,FAILED
+84,Lerato Mwangi,Ethiopia,Female,15,51,56,13,JSS2,120,40.0,FAILED
+85,Yemi Moyo,Kenya,Female,18,26,100,88,JSS3,214,71.33,PASSED
+86,Zuri Onyango,Kenya,Female,17,31,42,14,SS3,87,29.0,FAILED
+87,Zuri Okafor,Nigeria,Male,14,65,18,62,SS3,145,48.33,FAILED
+88,Kofi Banda,South Africa,Female,16,99,35,9,JSS1,143,47.67,FAILED
+89,Mirembe Maphosa,South Africa,Female,17,11,42,47,SS3,100,33.33,FAILED
+90,Mirembe Mensah,Zimbabwe,Female,15,35,96,24,SS3,155,51.67,PASSED
+91,Zuri Adebayo,Zambia,Male,16,72,98,7,SS3,177,59.0,PASSED
+92,Zuri Moyo,Senegal,Male,17,30,21,72,SS3,123,41.0,FAILED
+93,Lerato Chirwa,Kenya,Male,18,20,24,50,SS1,94,31.33,FAILED
+94,Lerato Mensah,Tanzania,Female,17,22,79,27,SS1,128,42.67,FAILED
+95,Zuri Kamau,South Africa,Female,16,25,71,86,SS3,182,60.67,PASSED
+96,Thabo Mensah,Tanzania,Male,17,31,86,75,SS1,192,64.0,PASSED
+97,Jelani Obasi,Nigeria,Female,15,75,3,62,JSS3,140,46.67,FAILED
+98,Abdi Okafor,Nigeria,Male,16,57,68,54,JSS1,179,59.67,PASSED
+99,Zanele Banda,Zambia,Female,17,74,20,44,JSS2,138,46.0,FAILED
+100,Thabo Kalema,Kenya,Male,18,14,33,72,JSS2,119,39.67,FAILED
